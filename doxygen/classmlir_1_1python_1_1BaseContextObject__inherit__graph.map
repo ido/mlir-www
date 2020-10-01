@@ -1,0 +1,7 @@
+<map id="mlir::python::BaseContextObject" name="mlir::python::BaseContextObject">
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1PyAttribute.html" title="Wrapper around the generic MlirAttribute. " alt="" coords="232,5,395,32"/>
+<area shape="rect" id="node3" href="$classmlir_1_1python_1_1PyLocation.html" title="Wrapper around an MlirLocation. " alt="" coords="232,56,395,83"/>
+<area shape="rect" id="node4" href="$classmlir_1_1python_1_1PyModule.html" title="mlir::python::PyModule" alt="" coords="235,107,391,133"/>
+<area shape="rect" id="node5" href="$classmlir_1_1python_1_1PyOperation.html" title="mlir::python::PyOperation" alt="" coords="228,157,399,184"/>
+<area shape="rect" id="node6" href="$classmlir_1_1python_1_1PyType.html" title="Wrapper around the generic MlirType. " alt="" coords="242,208,385,235"/>
+</map>

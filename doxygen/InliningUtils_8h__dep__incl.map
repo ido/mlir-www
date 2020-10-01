@@ -1,0 +1,11 @@
+<map id="include/mlir/Transforms/InliningUtils.h" name="include/mlir/Transforms/InliningUtils.h">
+<area shape="rect" id="node2" href="$AffineOps_8cpp.html" title="lib/Dialect/Affine\l/IR/AffineOps.cpp" alt="" coords="5,95,132,136"/>
+<area shape="rect" id="node3" href="$Async_8cpp.html" title="lib/Dialect/Async/IR\l/Async.cpp" alt="" coords="157,95,295,136"/>
+<area shape="rect" id="node4" href="$LinalgTypes_8cpp.html" title="lib/Dialect/Linalg\l/IR/LinalgTypes.cpp" alt="" coords="319,95,458,136"/>
+<area shape="rect" id="node5" href="$SCF_8cpp.html" title="lib/Dialect/SCF/SCF.cpp" alt="" coords="483,102,649,129"/>
+<area shape="rect" id="node6" href="$Shape_8cpp.html" title="lib/Dialect/Shape/IR\l/Shape.cpp" alt="" coords="674,95,813,136"/>
+<area shape="rect" id="node7" href="$SPIRVDialect_8cpp.html" title="lib/Dialect/SPIRV/SPIRVDialect.cpp" alt="" coords="837,102,1073,129"/>
+<area shape="rect" id="node8" href="$Ops_8cpp.html" title="lib/Dialect/StandardOps\l/IR/Ops.cpp" alt="" coords="1097,95,1257,136"/>
+<area shape="rect" id="node9" href="$Inliner_8cpp.html" title="lib/Transforms/Inliner.cpp" alt="" coords="1281,102,1451,129"/>
+<area shape="rect" id="node10" href="$InliningUtils_8cpp.html" title="lib/Transforms/Utils\l/InliningUtils.cpp" alt="" coords="1475,95,1611,136"/>
+</map>

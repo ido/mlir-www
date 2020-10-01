@@ -1,0 +1,30 @@
+<map id="lib/Dialect/SPIRV/Transforms/PassDetail.h" name="lib/Dialect/SPIRV/Transforms/PassDetail.h">
+<area shape="rect" id="node2" href="$Pass_2Pass_8h.html" title="mlir/Pass/Pass.h" alt="" coords="2552,102,2675,129"/>
+<area shape="rect" id="node3" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="1509,483,1627,509"/>
+<area shape="rect" id="node25" href="$Function_8h.html" title="mlir/IR/Function.h" alt="" coords="498,184,625,211"/>
+<area shape="rect" id="node28" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="2672,707,2859,733"/>
+<area shape="rect" id="node40" href="$AnalysisManager_8h.html" title="mlir/Pass/AnalysisManager.h" alt="" coords="1813,184,2005,211"/>
+<area shape="rect" id="node45" href="$PassRegistry_8h.html" title="mlir/Pass/PassRegistry.h" alt="" coords="2528,557,2699,584"/>
+<area shape="rect" id="node4" href="$OperationSupport_8h.html" title="mlir/IR/OperationSupport.h" alt="" coords="1131,557,1309,584"/>
+<area shape="rect" id="node18" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="2063,707,2214,733"/>
+<area shape="rect" id="node5" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="267,707,399,733"/>
+<area shape="rect" id="node7" href="$BlockSupport_8h.html" title="mlir/IR/BlockSupport.h" alt="" coords="1339,632,1493,659"/>
+<area shape="rect" id="node8" href="$Value_8h.html" title="mlir/IR/Value.h" alt="" coords="1247,707,1356,733"/>
+<area shape="rect" id="node9" href="$Types_8h.html" title="mlir/IR/Types.h" alt="" coords="1245,781,1357,808"/>
+<area shape="rect" id="node14" href="$Identifier_8h.html" title="mlir/IR/Identifier.h" alt="" coords="1913,707,2039,733"/>
+<area shape="rect" id="node15" href="$Location_8h.html" title="mlir/IR/Location.h" alt="" coords="347,632,472,659"/>
+<area shape="rect" id="node16" href="$TypeRange_8h.html" title="mlir/IR/TypeRange.h" alt="" coords="1121,632,1263,659"/>
+<area shape="rect" id="node17" href="$InterfaceSupport_8h.html" title="mlir/Support/InterfaceSupport.h" alt="" coords="1619,632,1821,659"/>
+<area shape="rect" id="node11" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="2275,781,2416,808"/>
+<area shape="rect" id="node26" href="$Block_8h.html" title="mlir/IR/Block.h" alt="" coords="1348,557,1457,584"/>
+<area shape="rect" id="node30" href="$FunctionSupport_8h.html" title="mlir/IR/FunctionSupport.h" alt="" coords="83,259,253,285"/>
+<area shape="rect" id="node31" href="$OpDefinition_8h.html" title="mlir/IR/OpDefinition.h" alt="" coords="217,408,365,435"/>
+<area shape="rect" id="node35" href="$SymbolTable_8h.html" title="mlir/IR/SymbolTable.h" alt="" coords="624,333,776,360"/>
+<area shape="rect" id="node38" href="$CallInterfaces_8h.html" title="mlir/Interfaces/CallInterfaces.h" alt="" coords="461,259,662,285"/>
+<area shape="rect" id="node27" href="$Visitors_8h.html" title="mlir/IR/Visitors.h" alt="" coords="2333,632,2453,659"/>
+<area shape="rect" id="node32" href="$Operation_8h.html" title="mlir/IR/Operation.h" alt="" coords="1154,483,1286,509"/>
+<area shape="rect" id="node41" href="$Module_8h.html" title="mlir/IR/Module.h" alt="" coords="1041,259,1159,285"/>
+<area shape="rect" id="node43" href="$PassInstrumentation_8h.html" title="mlir/Pass/PassInstrumentation.h" alt="" coords="1997,632,2209,659"/>
+<area shape="rect" id="node42" href="$OwningOpRefBase_8h.html" title="mlir/IR/OwningOpRefBase.h" alt="" coords="1073,333,1261,360"/>
+<area shape="rect" id="node46" href="$PassOptions_8h.html" title="mlir/Pass/PassOptions.h" alt="" coords="2631,632,2798,659"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="mlir::linalg::ConvOpVectorization&lt; ConvOp, N &gt;" name="mlir::linalg::ConvOpVectorization&lt; ConvOp, N &gt;">
+<area shape="rect" id="node2" href="$structmlir_1_1OpRewritePattern.html" title="mlir::OpRewritePattern\l\&lt; ConvOp \&gt;" alt="" coords="35,393,189,435"/>
+<area shape="rect" id="node3" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="37,213,176,240"/>
+<area shape="rect" id="node7" href="$structmlir_1_1OpRewritePattern.html" title="OpRewritePattern is a wrapper around RewritePattern that allows for matching and rewriting against an..." alt="" coords="128,289,283,331"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Pattern.html" title="Instances of Pattern can be matched against SSA IR. " alt="" coords="11,117,104,143"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l mlir::OperationName, 2 \&gt;" alt="" coords="128,109,301,151"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="148,5,281,47"/>
+</map>
